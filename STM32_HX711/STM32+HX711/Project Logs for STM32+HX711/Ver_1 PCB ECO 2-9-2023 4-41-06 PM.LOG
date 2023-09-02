@@ -1,0 +1,3 @@
+Added Component: Designator=P4(Pad)
+Added Pin To Net: NetName=GND Pin=P4-0
+Added Member To Class: ClassName=Ver_1 Member=Component P4 Pad

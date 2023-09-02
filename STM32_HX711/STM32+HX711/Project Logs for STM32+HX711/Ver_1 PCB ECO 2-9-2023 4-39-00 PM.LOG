@@ -1,0 +1,5 @@
+Added Component: Designator=P?(Pad)
+Added Pin To Net: NetName=Rate Pin=IC2-15
+Added Pin To Net: NetName=Rate Pin=P?-0
+Added Net: Name=Rate
+Added Member To Class: ClassName=Ver_1 Member=Component P? Pad

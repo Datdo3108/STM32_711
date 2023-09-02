@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=*1 NewDesignator=J2
+Change Component Designator: OldDesignator=*2 NewDesignator=J3
+Change Component Designator: OldDesignator=* NewDesignator=J1
+Change Component Designator: OldDesignator=JDC NewDesignator=JDC1
+Added Component: Designator=LED2(LEDC2012X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SML-LXT0805GW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sml-lxt0805gw-tr/lumex?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8886304"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SML-LXT0805GW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "696-SML-LXT0805GW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Lumex/SML-LXT0805GW-TR?qs=9HInCHf8eFiVOx4SP694cA%3D%3D"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=Net*1_1 New Net Name=NetC3_2
+Change Net Name : Old Net Name=Net*1_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=Net*2_1 New Net Name=NetC4_2
+Change Net Name : Old Net Name=Net*2_2 New Net Name=NetJ3_2
+Added Member To Class: ClassName=Ver_1 Member=Component LED2 SML-LXT0805GW-TR
