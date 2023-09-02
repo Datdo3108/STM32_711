@@ -1,0 +1,14 @@
+Added Component: Designator=LED1(LEDC2012X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SML-LXT0805GW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sml-lxt0805gw-tr/lumex?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/8886304"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SML-LXT0805GW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "696-SML-LXT0805GW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Lumex/SML-LXT0805GW-TR?qs=9HInCHf8eFiVOx4SP694cA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R7-2
+Added Net: Name=NetLED1_1
+Added Member To Class: ClassName=Ver_1 Member=Component LED1 SML-LXT0805GW-TR

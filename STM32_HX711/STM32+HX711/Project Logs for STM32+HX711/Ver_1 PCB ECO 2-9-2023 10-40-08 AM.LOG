@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Ver_1 Member=IC4
+Add Component: Footprint Not Found CAP10UF
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Class Member: Failed to add class member : Component L1 LED_0805
